@@ -1,0 +1,86 @@
+/* 全体 */
+
+body {
+    font-family: "Yu Gothic", sans-serif;
+    background: #f5f5f5;
+    color: #333;
+    margin: 0;
+    line-height: 1.8;
+}
+
+/* ヘッダー */
+
+header {
+    background: #3f51b5;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* 本文 */
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+article {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* 見出し */
+
+h2 {
+    border-bottom: 3px solid #3f51b5;
+    padding-bottom: 10px;
+}
+
+h3 {
+    margin-top: 40px;
+    color: #3f51b5;
+}
+
+/* 日付 */
+
+.date {
+    color: gray;
+    font-size: 0.9em;
+}
+
+/* リスト */
+
+ul {
+    padding-left: 25px;
+}
+
+/* 引用 */
+
+blockquote {
+    border-left: 5px solid #3f51b5;
+    background: #eef2ff;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+/* ソースコード */
+
+pre {
+    background: #272822;
+    color: #f8f8f2;
+    padding: 15px;
+    overflow-x: auto;
+    border-radius: 8px;
+}
+
+/* フッター */
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: gray;
+    font-size: 0.9em;
+}
