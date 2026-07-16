@@ -157,7 +157,7 @@ pre code {
 
 table {
     width: 100%;
-    min-width: 500px;
+    min-width: 100px;
     border-collapse: collapse;
     background: white;
 }
